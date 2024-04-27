@@ -45,7 +45,7 @@ https://www.biorxiv.org/content/10.1101/2023.08.15.553429v1
 ## Data availability
 
 To re-train the models, re-evaluate the models using the same test sets, or re-run the analysis notebook, you will find all the data in the folder './data'.
-To get the full library store comprising a whole set of ChEMBL database small molecules along with feature reprsentations, fetch the database deposited for public use on Zenodo (https://zenodo.org/records/11066707).
+To access the complete library store containing approximately 2 million small molecules, including the entire ChEMBL database, and their corresponding feature representations, retrieve the publicly available database from Zenodo (https://zenodo.org/records/11066707).
 
 ## Hot stuff
 
