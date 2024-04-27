@@ -27,11 +27,16 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 		$cd CToxPred2
 
-5- Run test:
+5- Start the App:
 
 		$python app.py
   
-The software saves the predictions to a CSV file named 'predictions.csv'
+:exclamation:Before runnong the tool (step 5), make sure to decompress first the models under "CToxPred2 > models". Also, The software allows to export the results and store them in a folder chosen by the user.
+
+To run screening/predictions from a notebook, please refer the example provided under: notebooks/analysis_notebook.ipynb 
+To regenerate figures as published in the paoer, please decompress first results under "CToxPred2\data\analyzed_sets", then use notebook unde: notebooks/make_predictions.ipynb
+
+
 
 ## Manuscript
 
