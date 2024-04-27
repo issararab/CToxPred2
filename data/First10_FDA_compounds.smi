@@ -1,0 +1,10 @@
+CN(CC(=O)O)C(=N)N
+CN(CCCCCCCCCCN(C)C(=O)Oc1cccc([N+](C)(C)C)c1)C(=O)Oc1cccc([N+](C)(C)C)c1
+CN(CCCl)CCCl
+CN(CCN1CCC(OC(=O)Nc2ccccc2-c2ccccc2)CC1)C(=O)c1ccc(CN2CCC(C(N)=O)CC2)cc1
+CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c1ccccn1
+CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc1ccc(NS(C)(=O)=O)cc1
+CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1
+CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12
+CN(C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12
+CN(C/C=C/c1ccccc1)Cc1cccc2ccccc12
