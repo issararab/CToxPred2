@@ -31,11 +31,11 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 		$python app.py
   
-:exclamation:Before runnong the tool (step 5), make sure to decompress first the models under "CToxPred2 > models". Also, The software allows to export the results and store them in a folder chosen by the user.
+:exclamation:Before running the tool (step 5), ensure to decompress the models located under "CToxPred2 > models".
 
-To run screening/predictions from a notebook, please refer the example provided under: notebooks/analysis_notebook.ipynb 
-To regenerate figures as published in the paoer, please decompress first results under "CToxPred2\data\analyzed_sets", then use notebook unde: notebooks/make_predictions.ipynb
-
+- To execute screening/predictions from a notebook, please consult the example provided at: notebooks/analysis_notebook.ipynb 
+- To recreate figures as published in the paper, start by decompressing the result CSV files under "CToxPred2/data/analyzed_sets". Then, utilize the notebook located at: notebooks/make_predictions.ipynb
+- The software facilitates users to export the results as a CSV file and store them in a folder of their choosing.
 
 
 ## Manuscript
