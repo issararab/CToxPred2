@@ -40,7 +40,7 @@ Comprehensive cardiotoxicity prediction tool of small molecules on three targets
 
 ## Manuscript
 
-https://www.biorxiv.org/content/10.1101/2023.08.15.553429v1
+TBA
 
 ## Data availability
 
