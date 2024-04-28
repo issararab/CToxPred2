@@ -45,11 +45,11 @@ https://www.biorxiv.org/content/10.1101/2023.08.15.553429v1
 ## Data availability
 
 To re-train the models, re-evaluate the models using the same test sets, or re-run the analysis notebook, you will find all the data in the folder './data'.
-To access the complete library store containing approximately 2 million small molecules, including the entire ChEMBL database, and their corresponding feature representations, retrieve the publicly available database from Zenodo (https://zenodo.org/records/11066707).
+To access the complete library store containing approximately 2 million small molecules, including the entire ChEMBL database, and their corresponding feature representations, retrieve the publicly available database from [Zenodo](https://zenodo.org/records/11066707).
 
 ## Hot stuff
 
-- Evaluation of the CToxPred performance compared toCardioGenAI, trained and tested using the same data, where (a) is performance on Test-70 and (b) performance on Test-60. 
+- Evaluation of the CToxPred performance compared to [CardioGenAI](https://arxiv.org/abs/2403.07632), trained and tested using the same data, where (a) is performance on Test-70 and (b) performance on Test-60. 
 <p align="center">
 	<img src="notebooks/figures/CToxpred_vs_CardioGenAI.png" />
 </p>
