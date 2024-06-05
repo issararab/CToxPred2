@@ -51,7 +51,7 @@ To access the complete library store containing approximately 2 million small mo
 
 ## Hot stuff
 
-- Evaluation of the CToxPred performance compared to [CardioGenAI](https://arxiv.org/abs/2403.07632), trained and tested using the same data, where (a) is performance on Test-70 and (b) performance on Test-60. 
+- Evaluation of the CToxPred2 performance compared to [CardioGenAI](https://arxiv.org/abs/2403.07632), trained and tested using the same data, where (a) is performance on Test-70 and (b) performance on Test-60. 
 <p align="center">
 	<img src="notebooks/figures/CToxpred_vs_CardioGenAI.png" />
 </p>
