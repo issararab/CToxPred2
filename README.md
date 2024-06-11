@@ -40,7 +40,7 @@ If you use CToxPred2 in your work, please cite the following publication:
 :exclamation:Before running the tool (step 5), ensure to decompress the models located under "CToxPred2 > models".
 
 - To execute screening/predictions from a notebook, please consult the example provided at: notebooks/analysis_notebook.ipynb 
-- To recreate figures as published in the paper, start by decompressing the result CSV files under "CToxPred2/data/analyzed_sets". Then, utilize the notebook located at: notebooks/make_predictions.ipynb
+- To reproduce figures as published in the paper, start by decompressing the result CSV files under "CToxPred2/data/analyzed_sets". Then, utilize the notebook located at: notebooks/make_predictions.ipynb
 - The software facilitates users to export the results as a CSV file and store them in a folder of their choosing.
 
 
