@@ -1,5 +1,5 @@
 # CToxPred2
-Comprehensive cardiotoxicity prediction tool of small molecules on three targets: hERG, Nav1.5, Cav1.2
+Comprehensive user-friendly cardiotoxicity prediction tool of small molecules on three targets: hERG, Nav1.5, Cav1.2
 
 ## Publication
 If you use CToxPred2 in your work, please cite the following publication:
