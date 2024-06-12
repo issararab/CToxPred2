@@ -17,7 +17,7 @@ If you use CToxPred2 in your work, please cite the following publication:
 </p>
 
 
-:exclamation:Clone first the whole repository package and follow the steps bellow.
+:exclamation:Clone the whole repository and follow the steps bellow.
 
 ## Prerequisites
 1- Create and activate a conda environment:
