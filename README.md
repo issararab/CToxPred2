@@ -2,7 +2,7 @@
 Comprehensive user-friendly cardiotoxicity prediction tool of small molecules on three targets: hERG, Nav1.5, Cav1.2
 
 <p align="center">
-	<img src="img/Paper_Icon.png" />
+	<img src="img/Paper_Icon.png" style="width:50%; height:50%;" />
 </p>
 
 ## Publication
