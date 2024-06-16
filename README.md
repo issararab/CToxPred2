@@ -2,11 +2,11 @@
 Comprehensive user-friendly cardiotoxicity prediction tool of small molecules on three targets: hERG, Nav1.5, Cav1.2
 
 <p align="center">
-	<img src="img/GUI.png" style="width:75%; height:75%;" />
+	<img src="img/GUI.png" style="width:75%; height:75%;" border-radius:15px; />
 </p>
 
 ## Publication
-If you use CToxPred2 in your work, please cite the following publication:
+If you use CToxPred2 in your work, please cite the following paper:
 
 - Issar Arab, Kris Laukens, Wout Bittremieux, **Semi-Supervised Learning to Boost Cardiotoxicity Prediction by Mining a Large Unlabeled Small Molecule Dataset**, _bioRxiv_, (2024). [doi.org/10.1101/2024.05.25.595894](https://doi.org/10.1101/2024.05.25.595894)
 
