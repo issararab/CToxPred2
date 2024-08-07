@@ -12,7 +12,7 @@ Bayesian probability theory offers a robust framework for addressing model uncer
 ## Publication
 If you use CToxPred2 in your work, please cite the following paper:
 
-- Issar Arab, Kristof Egghe, Kris Laukens, Ke Chen, Khaled Barakat, Wout Bittremieux, **Semisupervised Learning to Boost hERG, Nav1.5, and Cav1.2 Cardiac Ion Channel Toxicity Prediction by Mining a Large Unlabeled Small Molecule Data Set**, _Journal of Chemical Information and Modeling_, (2024). [doi.org/10.1021/acs.jcim.3c01301](https://doi.org/10.1021/acs.jcim.4c01102)
+- Issar Arab, Kris Laukens, Wout Bittremieux, **Semisupervised Learning to Boost hERG, Nav1.5, and Cav1.2 Cardiac Ion Channel Toxicity Prediction by Mining a Large Unlabeled Small Molecule Data Set**, _Journal of Chemical Information and Modeling_, (2024). [doi.org/10.1021/acs.jcim.3c01301](https://doi.org/10.1021/acs.jcim.4c01102)
 
 <p align="center">
 	<img src="img/Paper_Icon.png" style="width:60%; height:60%;" />
