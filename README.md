@@ -9,10 +9,12 @@ In ***computational drug discovery***, machine learning has significantly advanc
 
 Bayesian probability theory offers a robust framework for addressing model uncertainty; however, its computational demands often lead scientists to seek alternative methods. To address this, techniques like MC-dropout have emerged, offering a practical approximation of Bayesian inference<sup>[1](https://proceedings.mlr.press/v48/gal16.html)</sup>. Within the field of computational chemistry, methods such as MC-dropout, bootstrapping, and ensemble-based approaches have gained traction for estimating uncertainty and enhancing confidence in predictions<sup>[2](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00975),[3](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc00616h),[4](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01992h)</sup>. In CToxPred2, we have developed a graphical user interface (GUI) to simplify usability, particularly for non-technical users. By adjusting the software's settings, ***the GUI allows users to choose between:*** deep neural network (DNN) models<sup>[5](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c01301)</sup> trained using supervised learning with MC-dropout for uncertainty estimation and confidence prediction during inference, or random forest (RF) models trained using semi-supervised learning (SSL) on a large unlabeled dataset of small molecules<sup>[6](https://www.biorxiv.org/content/10.1101/2024.05.25.595894v1)</sup>. Notably, the RF models indirectly offer a form of confidence estimation through the mechanism of ensemble learning, where predictions are aggregated from multiple decision trees, each trained on a bootstrap sample of the dataset and utilizing a subset of the feature space.
 
-## Publication
-If you use CToxPred2 in your work, please cite the following paper:
+## Publications
+If you use CToxPred2 in your work, please cite the following papers:
 
 - Issar Arab, Kris Laukens, Wout Bittremieux, **Semisupervised Learning to Boost hERG, Nav1.5, and Cav1.2 Cardiac Ion Channel Toxicity Prediction by Mining a Large Unlabeled Small Molecule Data Set**, _Journal of Chemical Information and Modeling_, (2024). [doi.org/10.1021/acs.jcim.3c01301](https://doi.org/10.1021/acs.jcim.4c01102)
+
+- Issar Arab, Kristof Egghe, Kris Laukens, Ke Chen, Khaled Barakat, Wout Bittremieux, **Benchmarking of Small Molecule Feature Representations for hERG, Nav1.5, and Cav1.2 Cardiotoxicity Prediction**, _Journal of Chemical Information and Modeling_, (2023). [doi:10.1021/acs.jcim.3c01301](https://doi.org/10.1021/acs.jcim.3c01301)
 
 <p align="center">
 	<img src="img/Paper_Icon.png" style="width:60%; height:60%;" />
